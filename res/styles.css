@@ -83,7 +83,7 @@ section {
 .floating-signup {
   position: relative;
   padding: 10px 20px;
-  background: url(../images/RectangleDivBg.png);
+  bbackground:rgba(0,0,0,0.75);
 }
 
 .floaty-vertical--middle {
