@@ -166,7 +166,7 @@ section {
 
 .bg-image {
   /* photo from: https://www.pexels.com/photo/dawn-landscape-mountains-nature-1852/ */
-  background-image: url(/images/IMG_0355.JPG);
+  background-image: url(/images/IMG_0355.jpg);
   background-attachment: scroll;
   background-position: 50% 50%;
   background-size: cover;
